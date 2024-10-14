@@ -3,6 +3,8 @@
 width: 185px;
 height: 68px;
 padding: 15px 24px;
+color:white;
+font-size: var(--font-weight-regular);
 flex-direction: column;
 align-items: flex-start;
 gap: 10px;

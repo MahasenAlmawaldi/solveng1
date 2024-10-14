@@ -19,7 +19,7 @@
 }
 .title{
     position: relative;
-    color: rgb(40, 108, 15);
+    color: black;
     font-family: Cairo;
     font-size: 40px;
     font-weight: 700;
@@ -31,4 +31,11 @@
     background: linear-gradient(to right,#B19E84,#4B4338 );
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
+  }
+  .button{
+    display: flex;
+   width: 185px;
+    height: 68px;
+   justify-content: center;
+   align-items: center;
   }
